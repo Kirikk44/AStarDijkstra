@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>arrow.png</file>
+        <file>map.txt</file>
+    </qresource>
+</RCC>
